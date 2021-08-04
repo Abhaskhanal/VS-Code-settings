@@ -1,0 +1,20 @@
+{
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Andromeda",
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "workbench.tree.indent": 2,
+  "editor.wordWrap": "on",
+  "editor.codeActionsOnSave": null,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "indentRainbow.ignoreLinePatterns": ["/[ \t]* [*]/g", "/[ \t]+[/]{2}/g"],
+  "indentRainbow.includedLanguages": ["html", "javascript"],
+  "indentRainbow.indentSetter": {},
+  "workbench.iconTheme": "material-icon-theme",
+  "tabnine.experimentalAutoImports": true,
+  "indentRainbow.excludedLanguages": ["plaintext", "css", "scss"],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
