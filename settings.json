@@ -3,7 +3,6 @@
   "editor.tabSize": 2,
   "workbench.tree.indent": 2,
   "editor.wordWrap": "on",
-  "editor.codeActionsOnSave": null,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "indentRainbow.includedLanguages": ["html", "javascript"],
