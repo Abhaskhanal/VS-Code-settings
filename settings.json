@@ -6,7 +6,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "indentRainbow.includedLanguages": ["html", "javascript"],
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "vscode-icons",
   "indentRainbow.excludedLanguages": ["plaintext", "css", "scss"],
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
@@ -20,12 +20,12 @@
   },
   "editor.cursorBlinking": "expand",
   "editor.cursorWidth": 3,
-  "editor.fontSize": 15,
   "indentRainbow.colors": [
     "rgba(255,255,64,0.09)",
     "rgba(127,255,127,0.09)",
     "rgba(255,127,255,0.09)",
     "rgba(79,236,236,0.09)"
   ],
-  "workbench.colorTheme": "Andromeda Colorizer"
+  "workbench.colorTheme": "Andromeda Colorizer",
+  "editor.fontSize": 15
 }
