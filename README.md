@@ -1,1 +1,1 @@
-VS Code custom snippets for javascript and user settings
+# All my VS Code settings and extensions 
