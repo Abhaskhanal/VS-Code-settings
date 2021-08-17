@@ -12,7 +12,6 @@
     "javascript": "javascriptreact"
   },
   "editor.fontFamily": "'Cascadia Code'",
-  "editor.cursorSmoothCaretAnimation": true,
   "editor.smoothScrolling": true,
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
@@ -26,6 +25,38 @@
     "rgba(255,127,255,0.09)",
     "rgba(79,236,236,0.09)"
   ],
+  "editor.fontSize": 15,
+  "workbench.list.smoothScrolling": true,
   "workbench.colorTheme": "Andromeda Colorizer",
-  "editor.fontSize": 15
+  "workbench.editor.wrapTabs": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "black",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "white",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ]
 }
