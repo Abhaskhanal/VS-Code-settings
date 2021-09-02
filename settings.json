@@ -11,7 +11,7 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "editor.fontFamily": "'Cascadia Code'",
+  "editor.fontFamily": "'Cascadia Code','Fira Code'",
   "editor.smoothScrolling": true,
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
@@ -27,7 +27,6 @@
   ],
   "editor.fontSize": 15,
   "workbench.list.smoothScrolling": true,
-  "workbench.colorTheme": "Andromeda Colorizer",
   "workbench.editor.wrapTabs": true,
   "editor.cursorSmoothCaretAnimation": true,
   "better-comments.tags": [
@@ -60,3 +59,4 @@
     }
   ]
 }
+
