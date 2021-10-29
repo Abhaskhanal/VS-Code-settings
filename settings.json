@@ -11,7 +11,7 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "editor.fontFamily": "'Cascadia Code','Fira Code'",
+  "editor.fontFamily": "\"JetBrains Mono NL\"",
   "editor.smoothScrolling": true,
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
@@ -42,7 +42,7 @@
     {
       "tag": "//",
       "color": "black",
-      "strikethrough": true,
+      "strikethrough": false,
       "underline": false,
       "backgroundColor": "white",
       "bold": false,
@@ -57,6 +57,12 @@
       "bold": false,
       "italic": false
     }
-  ]
+  ],
+  "workbench.colorTheme": "Andromeda",
+  "workbench.sideBar.location": "right",
+  "workbench.colorCustomizations": {
+    "terminal.foreground": "#00fd61",
+    "terminal.background": "#000000"
+  }
 }
 
