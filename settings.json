@@ -15,7 +15,7 @@
   "editor.smoothScrolling": true,
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
-    "comments": "#2196F3"
+    "comments": "#20C20E"
   },
   "editor.cursorBlinking": "expand",
   "editor.cursorWidth": 3,
@@ -25,7 +25,6 @@
     "rgba(255,127,255,0.09)",
     "rgba(79,236,236,0.09)"
   ],
-  "editor.fontSize": 15,
   "workbench.list.smoothScrolling": true,
   "workbench.editor.wrapTabs": true,
   "editor.cursorSmoothCaretAnimation": true,
@@ -58,11 +57,12 @@
       "italic": false
     }
   ],
-  "workbench.colorTheme": "Andromeda",
-  "workbench.sideBar.location": "right",
   "workbench.colorCustomizations": {
-    "terminal.foreground": "#00fd61",
+    "terminal.foreground": "#20C20E",
     "terminal.background": "#000000"
-  }
+  },
+  "editor.fontSize": 15,
+  "bracketLens.color": "#f5f542",
+  "bracketLens.debug": true,
+  "workbench.colorTheme": "GitHub Dark"
 }
-
