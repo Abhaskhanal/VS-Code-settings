@@ -11,11 +11,11 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "editor.fontFamily": "\"JetBrains Mono NL\"",
+  "editor.fontFamily": "\"JetBrains Mono NL SemiBold\"",
   "editor.smoothScrolling": true,
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
-    "comments": "#20C20E"
+    "comments": "#0892d0"
   },
   "editor.cursorBlinking": "expand",
   "editor.cursorWidth": 3,
@@ -61,8 +61,8 @@
     "terminal.foreground": "#20C20E",
     "terminal.background": "#000000"
   },
-  "editor.fontSize": 15,
   "bracketLens.color": "#f5f542",
   "bracketLens.debug": true,
-  "workbench.colorTheme": "GitHub Dark"
+  "editor.fontSize": 16,
+  "workbench.colorTheme": "Andromeda"
 }
