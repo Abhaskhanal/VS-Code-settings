@@ -1,1 +1,1 @@
-# All my VS Code settings and extensions 
+vscode settings and extensions 
