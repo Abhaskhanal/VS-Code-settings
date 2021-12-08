@@ -15,7 +15,7 @@
   "editor.smoothScrolling": true,
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
-    "comments": "#0892d0"
+    "comments": "#fce625"
   },
   "editor.cursorBlinking": "expand",
   "editor.cursorWidth": 3,
@@ -58,12 +58,12 @@
     }
   ],
   "workbench.colorCustomizations": {
-    "terminal.foreground": "#20C20E",
+    "terminal.foreground": "#ad26f0",
     "terminal.background": "#000000"
   },
   "bracketLens.color": "#f5f542",
   "bracketLens.debug": true,
   "editor.fontSize": 16,
-  "workbench.colorTheme": "Andromeda",
+  "workbench.colorTheme": "sweetdracula",
   "security.workspace.trust.untrustedFiles": "open"
 }
