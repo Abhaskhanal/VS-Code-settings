@@ -64,6 +64,6 @@
   "bracketLens.color": "#f5f542",
   "bracketLens.debug": true,
   "editor.fontSize": 16,
-  "workbench.colorTheme": "sweetdracula",
+  "workbench.colorTheme": "Sweet Dracula",
   "security.workspace.trust.untrustedFiles": "open"
 }
