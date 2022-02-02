@@ -5,8 +5,8 @@
   "editor.wordWrap": "on",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "indentRainbow.includedLanguages": ["html", "javascript"],
-  "workbench.iconTheme": "vscode-icons",
+  "indentRainbow.includedLanguages": ["html", "javascript", "python"],
+  "workbench.iconTheme": "material-icon-theme",
   "indentRainbow.excludedLanguages": ["plaintext", "css", "scss"],
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
@@ -15,16 +15,11 @@
   "editor.smoothScrolling": true,
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
-    "comments": "#fce625"
+    "comments": "#ffff00"
   },
-  "editor.cursorBlinking": "expand",
+  "editor.cursorBlinking": "solid",
   "editor.cursorWidth": 3,
-  "indentRainbow.colors": [
-    "rgba(255,255,64,0.09)",
-    "rgba(127,255,127,0.09)",
-    "rgba(255,127,255,0.09)",
-    "rgba(79,236,236,0.09)"
-  ],
+  "editor.renderWhitespace": "all",
   "workbench.list.smoothScrolling": true,
   "workbench.editor.wrapTabs": true,
   "editor.cursorSmoothCaretAnimation": true,
@@ -58,12 +53,13 @@
     }
   ],
   "workbench.colorCustomizations": {
-    "terminal.foreground": "#ad26f0",
+    "terminal.foreground": "#af33ed",
     "terminal.background": "#000000"
   },
-  "bracketLens.color": "#f5f542",
-  "bracketLens.debug": true,
+  "security.workspace.trust.untrustedFiles": "open",
   "editor.fontSize": 16,
-  "workbench.colorTheme": "Sweet Dracula",
-  "security.workspace.trust.untrustedFiles": "open"
+  "editor.cursorStyle": "block",
+  "workbench.colorTheme": "Dracula",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active"
 }
