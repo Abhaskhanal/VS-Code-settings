@@ -1,1 +1,4 @@
 Here are the extra extensions added :
+- AREPL for python
+- Code runner
+- pylance , python
