@@ -15,7 +15,7 @@
   "editor.smoothScrolling": true,
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
-    "comments": "#ffff00"
+    "comments": "#6272a4"
   },
   "editor.cursorBlinking": "solid",
   "editor.cursorWidth": 3,
@@ -38,12 +38,12 @@
       "color": "black",
       "strikethrough": false,
       "underline": false,
-      "backgroundColor": "white",
+      "backgroundColor": "transparent",
       "bold": false,
       "italic": false
     },
     {
-      "tag": "todo",
+      "tag": "*",
       "color": "#FF8C00",
       "strikethrough": false,
       "underline": false,
@@ -53,13 +53,15 @@
     }
   ],
   "workbench.colorCustomizations": {
-    "terminal.foreground": "#af33ed",
-    "terminal.background": "#000000"
+    "terminal.foreground": "#ff79c6",
+    "terminal.background": "#282a36"
   },
   "security.workspace.trust.untrustedFiles": "open",
-  "editor.fontSize": 16,
   "editor.cursorStyle": "block",
   "workbench.colorTheme": "Dracula",
   "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs": "active"
+  "editor.guides.bracketPairs": "active",
+  "window.menuBarVisibility": "toggle",
+  "window.zoomLevel": 1,
+  "editor.fontSize": 13
 }
